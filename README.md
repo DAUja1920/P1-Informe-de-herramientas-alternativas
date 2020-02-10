@@ -23,3 +23,8 @@ Ventajas
 Inconvenientes
 ✘ No permite integrar otras aplicaciones
 
+-Capturas de Slack y Trello
+
+https://raw.githubusercontent.com/dlf00004/P1-Informe-de-herramientas-alternativas/master/assets/Trello.png
+
+https://raw.githubusercontent.com/dlf00004/P1-Informe-de-herramientas-alternativas/master/assets/Slack.png
