@@ -25,6 +25,6 @@ Inconvenientes
 
 -Capturas de Slack y Trello
 
-![Trello](Trello.png) 
+![Trello](Trello.PNG) 
 
-![Slack](Slack.png) 
+![Slack](Slack.PNG) 
