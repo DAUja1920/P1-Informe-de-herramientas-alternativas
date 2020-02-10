@@ -25,6 +25,6 @@ Inconvenientes
 
 -Capturas de Slack y Trello
 
-https://raw.githubusercontent.com/dlf00004/DAUja1920/P1-Informe-de-herramientas-alternativas/Trello.PNG
+![Trello](Trello.png) 
 
-https://raw.githubusercontent.com/dlf00004/DAUja1920/P1-Informe-de-herramientas-alternativas/Slack.PNG 
+![Slack](Slack.png) 
